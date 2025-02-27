@@ -31,7 +31,7 @@ Agile Methodologies: Experience working in agile environments with a focus on it
 Problem Solving: Adept at troubleshooting complex issues and delivering optimal solutions.
 
 - 💞️ I’m looking to collaborate on proyects to get experience and increase my knowledge.
-- 📫 How to reach me: karelh2207@gmail.com
+- 📫 How to reach me: karelhernandez2207@gmail.com
 - 😄 Pronouns: Does not matter.
 - ⚡ Fun fact: My laptop is not so fast, so please keep calm and take it ease! LOL
 
