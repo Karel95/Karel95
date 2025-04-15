@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • Blockchain Enthusiast • Game Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" height="160" alt="coding animation"/>
+  <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" height="240" alt="coding animation"/>
 </p>
 
 ---
@@ -24,8 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="25" style="pointer-events: none;" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="25" style="pointer-events: none;" alt="Tailwind CSS"/>
 </p>
 
 #### Backend
@@ -47,16 +47,23 @@
 #### Game Dev
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="Godot"/>
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white" height="25" style="pointer-events: none;" alt="GDScript"/>
 </p>
 
 #### Tools & Workflow
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Agile-02569B?style=flat&logo=agile&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Agile-02569B?style=flat&logo=agile&logoColor=white" height="25" style="pointer-events: none;" alt="Agile"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25" style="pointer-events: none;" alt="VSCode"/>
 </p>
+
+---
+
+### 🧠 Let's Collaborate!
+
+- 💡 I’m looking to contribute to open-source projects and real-world applications to grow my experience.
+- 🔥 Always exploring new tech and keeping up with the latest in Web3 and full-stack development.
 
 ---
 
@@ -70,13 +77,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
-
-### 🧠 Let's Collaborate!
-
-- 💡 I’m looking to contribute to open-source projects and real-world applications to grow my experience.
-- 🔥 Always exploring new tech and keeping up with the latest in Web3 and full-stack development.
 
 ---
 
