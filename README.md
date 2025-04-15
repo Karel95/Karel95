@@ -17,7 +17,6 @@
 
 ### 🛠️ Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   #### Frontend
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
@@ -55,7 +54,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
     <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25" style="pointer-events: none;" alt="VSCode"/>
   </div>
-</div>
 
 ---
 
