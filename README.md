@@ -58,6 +58,14 @@
 
 <img src="https://raw.githubusercontent.com/karel95/karel95/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/karel95/count.svg?"  />
+</div>
+
+###
+
 ### 🧠 Let's Collaborate!
 
 - 💡 I’m looking to contribute to open-source projects and real-world applications to grow my experience.
@@ -77,14 +85,6 @@
 </p>
 
 ---
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/karel95/count.svg?"  />
-</div>
-
-###
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
