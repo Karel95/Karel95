@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is @Karel95 </h2>
-<h2 align="left">I'm a 🌱 Full-Stack Developer and Emerging Blockchain Specialist </h2>
-<h2 align="left">👀 I’m interested in coding and programing Videogames but also Web and App Development. </h2>
+<h3 align="left">I'm a 🌱 Full-Stack Developer and Emerging Blockchain Specialist </h3>
+<h3 align="left">👀 I’m interested in coding and programing Videogames but also Web and App Development. </h3>
 
 ###
 
@@ -21,7 +21,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
 ###
