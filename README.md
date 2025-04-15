@@ -1,6 +1,41 @@
-- 👋 Hi, I’m @Karel95
-- 👀 I’m interested in coding and programing videogames but also Web and App Development. 
-- 🌱 Full-Stack Developer and Emerging Blockchain Specialist
+<h2 align="left">Hi 👋! My name is @Karel95 </h2>
+<h2 align="left">I'm a 🌱 Full-Stack Developer and Emerging Blockchain Specialist </h2>
+<h2 align="left">👀 I’m interested in coding and programing Videogames but also Web and App Development. </h2>
+
+###
+
+<img align="right" height="150" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:karelhernandez2207@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/karel95/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 I am a passionate developer with a strong foundation in web, app and game development, backend systems, and blockchain technology. I specialize in creating efficient, scalable, and visually appealing applications using a wide range of tools and technologies. My expertise includes:
 
@@ -32,8 +67,8 @@ Problem Solving: Adept at troubleshooting complex issues and delivering optimal 
 
 - 💞️ I’m looking to collaborate on proyects to get experience and increase my knowledge.
 - 📫 How to reach me: karelhernandez2207@gmail.com
-- 😄 Pronouns: Does not matter.
-- ⚡ Fun fact: My laptop is not so fast, so please keep calm and take it ease! LOL
+
+###
 
 <!---
 Karel95/Karel95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
