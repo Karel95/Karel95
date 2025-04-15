@@ -18,45 +18,42 @@
 ### 🛠️ Tech Stack
 
 #### Frontend
-<p>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" height="25" style="pointer-events: none;" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="25" style="pointer-events: none;" alt="Tailwind CSS"/>
-</p>
+</div>
 
 #### Backend
-<p>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django"/>
-</p>
+</div>
 
 #### Databases & Blockchain
-<p>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="Solidity"/>
-</p>
+</div>
 
 #### Game Dev
-<p>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="Godot"/>
   <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white" height="25" style="pointer-events: none;" alt="GDScript"/>
-</p>
+</div>
 
 #### Tools & Workflow
-<p>
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Agile-02569B?style=flat&logo=agile&logoColor=white" height="25" style="pointer-events: none;" alt="Agile"/>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25" style="pointer-events: none;" alt="VSCode"/>
-</p>
+</div>
 
 ---
 
