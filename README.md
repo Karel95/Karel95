@@ -5,6 +5,13 @@
   <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" height="240" alt="coding animation"/>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karel95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karel95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ---
 
 ### 🚀 About Me
@@ -13,10 +20,7 @@
 🎮 I enjoy programming videogames and experimenting with cutting-edge tech like smart contracts and NFTs.  
 🤝 I'm always open to collaborate on exciting projects and sharpen my skills.
 
----
-
 ### 🛠️ Tech Stack
-
 
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
@@ -49,14 +53,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karel95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karel95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/karel95/karel95/output/snake.svg" alt="Snake animation" />
+<!--- <img src="https://raw.githubusercontent.com/karel95/karel95/output/snake.svg" alt="Snake animation" /> --->
 
 ###
 
