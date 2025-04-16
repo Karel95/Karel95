@@ -2,7 +2,8 @@
 
 ###
 
-<h1 align="center">Hi there 👋, I'm Karel 👨‍💻</h1>
+<h1 align="left">Hi there 👋, I'm Karel Hernández 👨‍💻</h1>
+
 <h3 align="center">Full-Stack Developer • Blockchain Enthusiast • Game Developer</h3>
 
 <p align="center">
