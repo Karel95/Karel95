@@ -37,11 +37,12 @@
 
 ---
 
-### 🚀 About Me
-
-🌱 I'm a passionate Full-Stack Developer and emerging Blockchain Specialist with a love for creating powerful and scalable web, app, and game experiences.  
-🎮 I enjoy programming videogames and experimenting with cutting-edge tech like smart contracts and NFTs.  
-🤝 I'm always open to collaborate on exciting projects and sharpen my skills.
+> [!NOTE]
+> ### 🚀 About Me
+>
+> 🌱 I'm a passionate Full-Stack Developer and emerging Blockchain Specialist with a love for creating powerful and scalable web, app, and game experiences.  
+> 🎮 I enjoy programming videogames and experimenting with cutting-edge tech like smart contracts and NFTs.  
+> 🤝 I'm always open to collaborate on exciting projects and sharpen my skills.
 
 ### 🛠️ Tech Stack
 
@@ -66,10 +67,11 @@
     <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25" style="pointer-events: none;" alt="VSCode"/>
   </div>
 
-### 🧠 Let's Collaborate!
-
-- 💡 I’m looking to contribute to open-source projects and real-world applications to grow my experience.
-- 🔥 Always exploring new tech and keeping up with the latest in Web3 and full-stack development.
+> [!TIP]
+> ### 🧠 Let's Collaborate!
+>
+> 💡 I’m looking to contribute to open-source projects and real-world applications to grow my experience.
+> 🔥 Always exploring new tech and keeping up with the latest in Web3 and full-stack development.
 
 ### 📫 Contact Me
 
@@ -84,6 +86,7 @@
 
 ---
 
+> [!IMPORTANT] 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 
