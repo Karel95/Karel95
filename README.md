@@ -1,11 +1,11 @@
-<h2 align="center">Hi there 👋, I'm Karel 👨‍💻</h2>
+<h1 align="center">Hi there 👋, I'm Karel 👨‍💻</h1>
 
 ###
 
 <h3 align="center">Full-Stack Developer • Blockchain Enthusiast • Game Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" height="240" alt="coding animation"/>
+  <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" height="320" alt="coding animation"/>
 </p>
 
 ###
