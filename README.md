@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Karel 👨‍💻</h1>
+![Banner](public/img/banner-test.png)
 
 ###
 
+<h1 align="center">Hi there 👋, I'm Karel 👨‍💻</h1>
 <h3 align="center">Full-Stack Developer • Blockchain Enthusiast • Game Developer</h3>
 
 <p align="center">
@@ -22,10 +23,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karel95/karel95/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karel95/karel95/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<!--- <img src="https://raw.githubusercontent.com/karel95/karel95/output/snake.svg" alt="Snake animation" /> --->
 
 ###
 
