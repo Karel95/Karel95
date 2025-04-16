@@ -72,8 +72,8 @@
 > [!TIP]
 > ### 🧠 Let's Collaborate!
 >
-> 💡 I’m looking to contribute to open-source projects and real-world applications to grow my experience.
-> 🔥 Always exploring new tech and keeping up with the latest in Web3 and full-stack development.
+> - 💡 I’m looking to contribute to open-source projects and real-world applications to grow my experience.
+> - 🔥 Always exploring new tech and keeping up with the latest in Web3 and full-stack development.
 
 ### 📫 Contact Me
 
