@@ -12,9 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karel95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karel95/karel95/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karel95/karel95/output/pacman-contribution-graph.svg">
@@ -68,8 +65,6 @@
 
 - 💡 I’m looking to contribute to open-source projects and real-world applications to grow my experience.
 - 🔥 Always exploring new tech and keeping up with the latest in Web3 and full-stack development.
-
----
 
 ### 📫 Contact Me
 
