@@ -6,11 +6,11 @@
 
 <h3 align="center">Full-Stack Developer • Blockchain Enthusiast • Game Developer</h3>
 
-[![committers.top badge](https://user-badge.committers.top/suriname/Karel95.svg)](https://user-badge.committers.top/suriname/Karel95)
-
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif" height="320" alt="coding animation"/>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/suriname/Karel95.svg)](https://user-badge.committers.top/suriname/Karel95)
 
 ###
 
