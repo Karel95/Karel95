@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi there 👋, I'm Karel Hernández 👨‍💻</h1>
 
+[![committers.top badge](https://user-badge.committers.top/suriname/USERNAME.svg)](https://user-badge.committers.top/suriname/USERNAME)
+
 <h3 align="center">Full-Stack Developer • Blockchain Enthusiast • Game Developer</h3>
 
 <p align="center">
