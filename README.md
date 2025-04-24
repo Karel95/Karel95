@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/suriname/USERNAME.svg)](https://user-badge.committers.top/suriname/Karel95)
+[![committers.top badge](https://user-badge.committers.top/suriname/Karel95.svg)](https://user-badge.committers.top/suriname/Karel95)
 ![Banner](public/img/banner-test.png)
 
 ###
